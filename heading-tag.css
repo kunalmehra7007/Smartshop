@@ -1,0 +1,20 @@
+
+/* This is for second carousel image */
+
+#heading-1
+{
+      font-weight:bolder;
+      text-decoration-line:underline;
+      text-decoration-style:wavy;
+      color:olive;
+      font-style:italic;
+}
+
+#heading-2
+{
+    color:goldenrod;
+    text-align:center;
+    font-family:Georgia;
+    margin-top:130px;
+}
+
